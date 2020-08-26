@@ -11,19 +11,7 @@ const styles = StyleSheet.create({
     fontSize: 32,
     fontWeight: "bold",
   },
-  techsContainer: {
-    flexDirection: "row",
-    marginTop: 10,
-  },
-  tech: {
-    fontSize: 12,
-    fontWeight: "bold",
-    marginRight: 10,
-    backgroundColor: "#04d361",
-    paddingHorizontal: 10,
-    paddingVertical: 5,
-    color: "#fff",
-  },
+
   likesContainer: {
     marginTop: 15,
     flexDirection: "row",
